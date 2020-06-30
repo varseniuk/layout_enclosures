@@ -18,10 +18,10 @@ body {
 
 .middle {
   background-color: #ffa500;
-  margin: auto;
+  margin: 0;
 }
 
 .inner {
   background-color: #ddd;
-  margin: auto;
+  margin: 0;
 }
